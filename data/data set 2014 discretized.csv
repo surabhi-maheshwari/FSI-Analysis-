@@ -1,0 +1,179 @@
+Country,Year,Rank,Total discretized,Security Apparatus discretized,Factionalized Elites discretized,Group grievance discretized,Economy discretized,Economic Inequality discretized,human flight discretized,state legitimacy discretized,public services discretized,human rights discretized,demographic pressures discretized,refugees discretized,external intervention,fertility rate discretized,"Immunization, DPT discretized",Imports of goods and services discretized,life expectancy discretized,basic drinking water discretized,seats held by women discretized
+Sudan,2014,1st,alert,very high,very low,very low,very high,very low,very low,very low,very high,very high,very low,very low,very low,neutral,very high,very low,neutral,neutral,low
+Congo Democratic Republic,2014,2nd,high warning,very high,very low,very low,very high,very low,low,very low,very high,very high,very low,very low,very low,low,high,very low,high,high,very low
+South Sudan,2014,3rd,high warning,very high,very low,very low,very high,very low,low,very low,very high,very high,very low,very low,very low,neutral,low,very low,very high,neutral,low
+Afghanistan,2014,4th,high warning,very high,very low,very low,very high,low,low,very low,very high,very high,very low,very low,very low,neutral,neutral,low,high,neutral,low
+Somalia,2014,5th,high warning,very high,very low,very low,very high,very low,very low,very low,very high,very high,very low,very low,very low,low,low,low,very high,very high,very low
+Iraq,2014,6th,high warning,very high,very low,very low,high,very low,very low,very low,high,very high,very low,very low,low,neutral,neutral,very low,neutral,low,low
+Pakistan,2014,7th,high warning,very high,very low,very low,high,low,low,very low,high,very high,very low,very low,very low,high,high,very low,neutral,very low,low
+Zimbabwe,2014,8th,high warning,very high,very low,very low,very high,very low,very low,very low,very high,very high,very low,very low,low,high,very high,very low,high,neutral,low
+Syria,2014,9th,high warning,very high,very low,very low,high,low,low,very low,high,very high,low,very low,very low,high,low,low,low,very low,very low
+Yemen,2014,10th,high warning,very high,very low,very low,very high,low,low,very low,very high,very high,very low,very low,very low,neutral,high,very low,neutral,low,very low
+North Korea,2014,11th,high warning,very high,very low,low,very high,very low,neutral,very low,very high,very high,low,neutral,very low,high,very high,low,low,very low,very low
+Kenya,2014,12th,high warning,very high,very low,very low,high,very low,low,very low,very high,high,very low,very low,very low,neutral,very high,very low,neutral,neutral,very low
+Central African Republic,2014,13th,high warning,very high,very low,very low,high,very low,low,very low,very high,very high,very low,very low,very low,neutral,low,very low,very high,neutral,very low
+Timor-Leste,2014,14th,high warning,very high,very low,low,very high,low,low,low,very high,neutral,very low,low,very low,neutral,high,neutral,neutral,neutral,low
+Chad,2014,15th,high warning,very high,very low,very low,high,very low,very low,very low,very high,very high,very low,very low,very low,low,low,very low,very high,high,very low
+Burundi,2014,16th,high warning,high,low,very low,very high,low,low,very low,very high,very high,very low,very low,very low,neutral,very high,very low,high,neutral,low
+Guinea,2014,17th,high warning,very high,very low,very low,very high,low,low,very low,very high,very high,very low,very low,low,neutral,low,low,high,neutral,low
+Guinea Bissau,2014,18th,high warning,very high,very low,low,very high,very low,very low,very low,very high,high,very low,very low,very low,neutral,very high,very low,very high,neutral,very low
+Bangladesh,2014,19th,high warning,high,very low,very low,high,low,low,very low,very high,very high,low,low,low,high,very high,very low,low,very low,low
+Sri Lanka,2014,20th,high warning,very high,very low,very low,high,low,low,very low,neutral,very high,low,very low,low,high,very high,very low,low,very low,very low
+Cote d Ivoire,2014,21st,high warning,very high,very low,very low,high,low,low,very low,very high,very high,low,very low,very low,neutral,high,very low,very high,neutral,very low
+Rwanda,2014,22nd,high warning,neutral,very low,very low,high,low,low,low,high,high,very low,very low,very low,neutral,very high,very low,neutral,neutral,high
+Haiti,2014,23rd,high warning,high,very low,low,very high,very low,very low,very low,very high,high,very low,very low,very low,high,low,low,high,neutral,very low
+Nepal,2014,24th,high warning,high,very low,very low,high,low,low,low,high,high,low,low,low,high,very high,very low,neutral,very low,low
+Ethiopia,2014,25th,high warning,very high,very low,very low,high,low,low,low,very high,very high,very low,very low,very low,neutral,high,very low,neutral,high,low
+Egypt,2014,26th,high warning,high,very low,very low,high,low,neutral,very low,neutral,very high,low,low,low,high,very high,very low,low,very low,very low
+Niger,2014,27th,high warning,very high,very low,low,very high,low,low,low,very high,high,very low,very low,very low,low,high,very low,high,high,very low
+Eritrea,2014,28th,high warning,high,very low,low,very high,low,low,very low,very high,very high,very low,low,very low,neutral,very high,low,neutral,very high,low
+Mauritania,2014,29th,elevated warning,high,very low,low,high,low,low,low,very high,high,very low,very low,very low,neutral,very high,low,high,neutral,low
+Uganda,2014,30th,elevated warning,high,very low,very low,high,low,low,low,very high,high,very low,very low,very low,neutral,high,very low,high,high,low
+Liberia,2014,31st,elevated warning,high,very low,low,very high,very low,low,low,very high,high,very low,very low,very low,neutral,low,high,high,neutral,very low
+Kyrgyz Republic,2014,32nd,elevated warning,high,very low,very low,high,low,low,very low,neutral,high,low,neutral,low,high,very high,neutral,low,very low,low
+Cambodia,2014,33rd,elevated warning,high,very low,low,high,low,low,very low,very high,high,low,low,low,high,very high,low,neutral,low,low
+Myanmar,2014,34th,elevated warning,very high,very low,very low,high,very low,neutral,very low,very high,very high,low,very low,low,high,very high,very low,neutral,neutral,very low
+Cameroon,2014,35th,elevated warning,high,very low,low,neutral,low,low,very low,very high,very high,very low,low,low,neutral,very high,very low,very high,neutral,low
+Malawi,2014,36th,elevated warning,neutral,low,neutral,very high,very low,very low,low,very high,high,very low,low,very low,neutral,very high,very low,high,low,very low
+Iran,2014,37th,elevated warning,very high,very low,very low,high,low,neutral,very low,neutral,very high,neutral,low,low,very high,very high,very low,low,very low,very low
+Nigeria,2014,38th,elevated warning,very high,very low,very low,high,very low,low,very low,very high,very high,very low,low,low,neutral,low,very low,very high,neutral,very low
+Congo Republic,2014,39th,elevated warning,high,low,low,high,very low,low,very low,very high,high,very low,very low,low,neutral,very high,low,high,high,very low
+Israel and West Bank,2014,40th,elevated warning,high,very low,very low,neutral,low,high,low,neutral,high,low,low,low,high,very high,very low,very low,very low,low
+Tajikistan,2014,41st,elevated warning,high,very low,low,high,neutral,low,very low,high,high,low,neutral,low,high,very high,low,low,low,very low
+Georgia,2014,42nd,elevated warning,high,very low,very low,high,low,neutral,very low,neutral,high,neutral,low,low,high,very high,low,low,very low,very low
+Burkina Faso,2014,44th,elevated warning,high,low,neutral,high,very low,low,low,very high,high,very low,low,low,neutral,very high,very low,high,neutral,very low
+Senegal,2014,43rd,elevated warning,high,low,low,high,low,low,low,high,high,very low,low,low,neutral,very high,low,neutral,low,neutral
+Solomon Islands,2014,45th,elevated warning,high,very low,low,high,very low,low,low,high,high,very low,neutral,very low,neutral,very high,low,neutral,neutral,very low
+Comoros,2014,46th,elevated warning,high,low,neutral,very high,low,low,low,very high,high,low,neutral,very low,neutral,very high,low,high,very low,very low
+Mali,2014,47th,elevated warning,very high,neutral,low,high,low,very low,neutral,very high,high,very low,low,very low,low,high,very low,very high,low,very low
+Togo,2014,48th,elevated warning,high,low,neutral,high,low,low,very low,very high,high,low,low,low,neutral,very high,low,high,neutral,very low
+Philippines,2014,49th,elevated warning,very high,very low,very low,neutral,low,neutral,low,high,high,low,low,low,high,neutral,very low,neutral,very low,low
+Libya,2014,51st,elevated warning,very high,very low,low,high,low,neutral,very low,high,very high,neutral,neutral,very low,high,very high,neutral,low,very high,very low
+Colombia,2014,50th,elevated warning,high,low,low,neutral,low,low,low,high,high,low,very low,low,very high,very high,very low,low,very low,low
+Laos,2014,52nd,elevated warning,high,very low,low,neutral,low,low,very low,high,very high,low,neutral,low,high,very high,low,neutral,low,low
+Bolivia,2014,53rd,elevated warning,high,very low,low,neutral,very low,low,low,high,high,low,neutral,low,high,very high,very low,neutral,low,neutral
+Bhutan,2014,54th,elevated warning,neutral,low,low,high,low,low,neutral,high,high,low,low,low,high,very high,low,neutral,very low,very low
+Algeria,2014,55th,elevated warning,high,low,low,high,neutral,neutral,low,high,high,neutral,low,neutral,high,very high,very low,low,very low,low
+Jordan,2014,56th,elevated warning,neutral,low,low,high,low,high,low,neutral,high,low,very low,low,high,very high,low,low,very low,very low
+Nicaragua,2014,57th,elevated warning,neutral,low,low,high,low,low,low,high,neutral,neutral,neutral,low,high,very high,low,low,low,neutral
+Honduras,2014,58th,elevated warning,high,low,low,high,low,low,low,high,high,low,neutral,low,high,very high,low,low,very low,low
+Fiji,2014,59th,elevated warning,high,low,low,high,low,low,low,neutral,high,neutral,high,low,high,very high,low,low,very low,very low
+Tunisia,2014,60th,elevated warning,high,very low,low,high,neutral,neutral,very low,neutral,very high,neutral,neutral,low,high,very high,low,low,very low,low
+Sierra Leone,2014,61st,elevated warning,neutral,low,neutral,very high,very low,very low,low,very high,neutral,very low,low,low,neutral,very high,low,very high,neutral,very low
+Gambia,2014,62nd,elevated warning,neutral,low,high,high,low,low,low,high,very high,low,low,low,neutral,very high,very low,high,low,very low
+Maldives,2014,63rd,elevated warning,neutral,very low,neutral,high,neutral,neutral,very low,high,high,neutral,neutral,low,high,very high,neutral,low,very low,very low
+Swaziland,2014,65th,elevated warning,neutral,low,high,very high,low,low,very low,high,very high,very low,neutral,low,high,very high,low,high,neutral,very low
+China,2014,64th,elevated warning,high,low,very low,low,low,neutral,low,high,very high,low,neutral,high,very high,very high,very low,low,very low,low
+Angola,2014,66th,elevated warning,neutral,low,low,neutral,very low,low,very low,very high,high,very low,low,neutral,neutral,neutral,very low,high,high,low
+Zambia,2014,67th,elevated warning,neutral,neutral,low,very high,very low,low,low,high,high,very low,low,low,neutral,very high,very low,high,neutral,very low
+Djibouti,2014,68th,elevated warning,high,low,low,high,low,neutral,low,high,high,very low,low,very low,high,high,low,high,neutral,very low
+Turkmenistan,2014,69th,elevated warning,high,low,low,neutral,low,neutral,very low,high,very high,low,neutral,neutral,high,very high,very low,neutral,very low,low
+Thailand,2014,70th,elevated warning,high,very low,very low,low,low,high,low,neutral,high,low,low,neutral,very high,very high,low,low,very low,very low
+Belarus,2014,71st,elevated warning,high,very low,low,high,neutral,high,very low,neutral,very high,neutral,high,low,very high,very high,low,low,very low,low
+Ecuador,2014,72nd,elevated warning,high,very low,low,neutral,low,low,low,high,neutral,neutral,neutral,neutral,high,very high,very low,low,very low,neutral
+Lebanon,2014,73rd,elevated warning,very high,very low,very low,neutral,low,neutral,low,neutral,high,low,very low,very low,very high,high,low,very low,very high,very low
+Guatemala,2014,74th,elevated warning,high,low,low,high,low,low,low,high,high,low,low,neutral,high,high,very low,low,very low,very low
+Mozambique,2014,75th,elevated warning,high,low,neutral,very high,very low,low,low,very high,high,very low,neutral,low,neutral,high,neutral,high,high,very low
+Venezuela,2014,76th,elevated warning,high,low,low,neutral,low,neutral,low,high,high,neutral,neutral,neutral,high,high,neutral,low,very low,very low
+Uzbekistan,2014,77th,elevated warning,high,very low,low,high,low,low,very low,neutral,very high,low,neutral,neutral,high,very high,very low,low,very high,low
+Tanzania,2014,78th,elevated warning,neutral,neutral,neutral,high,low,low,low,very high,high,very low,low,low,neutral,very high,very low,neutral,high,low
+Bosnia and Herzegovina,2014,80th,elevated warning,high,very low,low,neutral,neutral,neutral,low,neutral,high,neutral,low,low,very high,very high,low,low,very low,low
+Vietnam,2014,79th,elevated warning,neutral,low,low,neutral,neutral,neutral,very low,neutral,high,low,neutral,neutral,high,very high,neutral,very low,very low,low
+Lesotho,2014,81st,elevated warning,neutral,low,neutral,very high,low,low,neutral,very high,neutral,very low,neutral,low,high,very high,neutral,very high,low,low
+Russia,2014,82nd,elevated warning,very high,very low,very low,low,low,neutral,low,neutral,very high,neutral,neutral,neutral,very high,very high,very low,low,very low,very low
+Moldova,2014,83rd,elevated warning,high,low,low,high,neutral,low,low,neutral,neutral,neutral,neutral,low,very high,very high,neutral,low,low,very low
+Papua New Guinea,2014,84th,elevated warning,high,low,low,high,very low,low,low,very high,high,low,neutral,low,high,high,low,neutral,high,very low
+Turkey,2014,85th,elevated warning,high,low,very low,neutral,low,high,low,neutral,neutral,neutral,low,neutral,high,very high,very low,low,very low,very low
+Madagascar,2014,86th,elevated warning,high,low,neutral,high,very low,neutral,low,very high,neutral,very low,neutral,low,neutral,high,low,neutral,high,low
+Serbia,2014,87th,elevated warning,high,very low,very low,high,neutral,neutral,neutral,neutral,neutral,neutral,low,low,very high,very high,low,low,very low,low
+Azerbaijan,2014,88th,elevated warning,high,low,low,neutral,low,neutral,very low,neutral,high,neutral,low,low,high,very high,very low,low,low,very low
+Sao Tome and Principe,2014,89th,elevated warning,neutral,low,neutral,very high,low,very low,low,high,neutral,low,neutral,low,neutral,very high,very low,neutral,low,very low
+Cuba,2014,90th,elevated warning,high,low,neutral,neutral,neutral,low,low,neutral,high,neutral,neutral,low,very high,very high,very low,very low,very low,neutral
+Cape Verde,2014,91st,warning,neutral,neutral,neutral,high,low,very low,low,high,neutral,low,neutral,low,high,very high,low,low,low,low
+Guyana,2014,92nd,warning,neutral,neutral,low,high,low,very low,neutral,high,neutral,neutral,neutral,low,high,very high,low,neutral,very low,low
+Morocco,2014,93rd,warning,high,low,low,neutral,low,low,low,neutral,high,neutral,neutral,neutral,high,very high,low,low,low,very low
+Mexico,2014,94th,warning,high,neutral,low,neutral,low,neutral,neutral,high,high,low,neutral,neutral,high,very high,very low,low,very low,low
+Dominican Republic,2014,95th,warning,neutral,low,low,neutral,low,low,neutral,high,neutral,low,neutral,neutral,high,very high,very low,low,very low,low
+El Salvador,2014,96th,warning,high,neutral,low,high,low,low,neutral,high,neutral,low,neutral,neutral,high,very high,low,low,very low,low
+India,2014,97th,warning,high,low,low,neutral,low,neutral,neutral,high,neutral,low,neutral,neutral,high,very high,very low,neutral,very low,very low
+Indonesia,2014,98th,warning,high,low,low,neutral,low,low,low,high,high,low,neutral,neutral,high,high,very low,neutral,very low,very low
+Armenia,2014,99th,warning,neutral,low,neutral,neutral,neutral,neutral,low,neutral,high,neutral,low,low,very high,very high,low,low,very low,very low
+Benin,2014,100th,warning,neutral,low,high,high,low,low,low,very high,neutral,very low,low,low,neutral,high,low,high,neutral,very low
+Cyprus,2014,101st,warning,neutral,low,low,high,low,neutral,neutral,low,low,neutral,neutral,very low,very high,very high,low,very low,very low,very low
+Paraguay,2014,102nd,warning,high,low,low,neutral,very low,neutral,low,high,high,neutral,high,neutral,high,very high,low,low,very low,very low
+Micronesia,2014,103rd,warning,neutral,neutral,neutral,high,very low,very low,low,high,low,low,high,very low,high,high,low,neutral,very low,very low
+Peru,2014,104th,warning,high,low,low,neutral,low,low,low,high,neutral,neutral,neutral,neutral,high,very high,very low,low,low,low
+Macedonia,2014,105th,warning,neutral,low,low,neutral,neutral,neutral,neutral,neutral,neutral,high,neutral,neutral,very high,very high,low,low,very low,low
+Suriname,2014,106th,warning,neutral,neutral,low,high,low,low,neutral,neutral,neutral,neutral,high,low,high,very high,low,low,very low,very low
+Equatorial Guinea,2014,107th,warning,high,very low,low,neutral,very low,low,very low,high,very high,very low,high,neutral,neutral,very low,very low,high,high,low
+Kazakhstan,2014,108th,warning,high,low,low,neutral,neutral,high,low,neutral,high,neutral,high,neutral,high,very high,very low,low,very low,low
+Samoa,2014,109th,warning,neutral,neutral,neutral,high,neutral,very low,low,neutral,neutral,low,high,very low,neutral,neutral,low,low,very low,very low
+Malaysia,2014,110th,warning,high,low,low,low,neutral,neutral,low,neutral,high,neutral,neutral,neutral,high,very high,low,low,very low,very low
+Belize,2014,111th,warning,neutral,neutral,neutral,neutral,low,low,low,high,neutral,low,neutral,low,high,very high,low,low,very low,very low
+Ghana,2014,112th,warning,neutral,neutral,neutral,high,low,low,neutral,high,neutral,low,neutral,low,neutral,very high,low,high,low,very low
+Namibia,2014,113th,warning,neutral,high,neutral,high,very low,low,neutral,high,neutral,low,neutral,low,high,very high,low,neutral,low,very low
+Albania,2014,114th,warning,neutral,low,neutral,neutral,neutral,low,low,neutral,neutral,neutral,high,low,very high,very high,low,very low,very low,low
+Jamaica,2014,115th,warning,high,high,neutral,high,neutral,low,neutral,neutral,neutral,neutral,high,low,high,very high,low,low,very low,very low
+Saudi Arabia,2014,116th,warning,high,very low,low,low,low,high,very low,neutral,very high,low,neutral,neutral,high,very high,very low,low,very high,low
+Gabon,2014,117th,warning,neutral,low,high,neutral,low,neutral,low,high,high,low,neutral,neutral,high,high,very low,neutral,neutral,very low
+Brunei Darussalam,2014,118th,warning,neutral,low,low,low,low,neutral,low,low,high,neutral,high,neutral,very high,very high,very low,low,very low,very low
+Seychelles,2014,119th,warning,high,neutral,neutral,neutral,low,neutral,low,low,neutral,neutral,high,low,high,very high,neutral,low,very high,neutral
+South Africa,2014,120th,warning,neutral,neutral,neutral,neutral,low,neutral,neutral,high,neutral,low,low,high,high,high,very low,high,low,neutral
+Botswana,2014,121st,warning,low,high,neutral,high,low,neutral,neutral,high,neutral,very low,neutral,neutral,high,very high,low,neutral,neutral,very low
+Brazil,2014,122nd,stable,neutral,neutral,neutral,low,very low,high,neutral,neutral,neutral,low,high,high,very high,very high,very low,low,very low,very low
+Ukraine,2014,123rd,stable,neutral,very low,low,neutral,neutral,neutral,very low,low,high,neutral,high,low,very high,very low,low,low,very low,very low
+Grenada,2014,124th,stable,neutral,neutral,high,high,neutral,very low,low,low,neutral,neutral,high,low,high,very high,low,low,very high,low
+Bahrain,2014,125th,stable,high,low,low,low,neutral,high,low,low,high,neutral,high,neutral,high,very high,neutral,low,very high,very low
+Romania,2014,126th,stable,low,neutral,low,neutral,neutral,neutral,low,neutral,neutral,neutral,high,neutral,very high,very high,very low,low,very low,very low
+Montenegro,2014,127th,stable,neutral,low,low,neutral,high,high,neutral,low,neutral,high,neutral,neutral,very high,very high,low,low,very low,very low
+Panama,2014,128th,stable,neutral,high,neutral,low,low,neutral,neutral,neutral,neutral,neutral,neutral,high,high,high,low,very low,very low,very low
+Bulgaria,2014,129th,stable,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,low,neutral,high,neutral,very high,very high,low,low,very low,low
+Mongolia,2014,130th,stable,neutral,neutral,neutral,neutral,low,high,neutral,high,neutral,neutral,high,low,high,very high,low,low,neutral,very low
+Croatia,2014,131st,stable,neutral,neutral,neutral,neutral,neutral,neutral,high,low,neutral,high,neutral,neutral,very high,very high,low,very low,very low,low
+Greece,2014,132nd,stable,neutral,high,neutral,high,neutral,neutral,low,low,low,high,very high,neutral,very high,very high,very low,very low,very low,low
+Trinidad and Tobago,2014,133rd,stable,neutral,neutral,neutral,neutral,neutral,low,neutral,neutral,neutral,neutral,high,high,very high,very high,low,low,very high,low
+Oman,2014,135th,stable,neutral,low,high,neutral,high,high,low,neutral,high,neutral,high,high,high,very high,low,low,low,very low
+United Arab Emirates,2014,134th,stable,low,high,neutral,low,neutral,high,low,low,high,neutral,high,high,very high,very high,neutral,low,very low,very low
+Hungary,2014,136th,stable,low,neutral,neutral,neutral,neutral,high,low,low,neutral,high,high,high,very high,very high,neutral,low,very low,very low
+Malta,2014,137th,stable,low,high,neutral,low,high,neutral,high,low,low,high,neutral,high,very high,very high,high,very low,very low,very low
+Antigua and Barbuda,2014,138th,stable,neutral,high,neutral,neutral,neutral,low,neutral,neutral,neutral,neutral,high,low,high,very high,low,low,very high,very low
+Costa Rica,2014,139th,stable,low,high,neutral,neutral,neutral,high,high,neutral,low,neutral,neutral,neutral,very high,very high,very low,very low,very low,low
+Latvia,2014,140th,stable,low,neutral,neutral,neutral,neutral,neutral,neutral,low,low,high,high,high,very high,very high,low,low,very low,very low
+Slovak Republic,2014,141st,stable,low,high,neutral,neutral,neutral,neutral,neutral,low,low,high,high,high,very high,very high,neutral,very low,very low,very low
+Argentina,2014,142nd,stable,low,high,neutral,neutral,neutral,high,neutral,neutral,neutral,neutral,high,high,high,very high,very low,very low,very low,low
+Estonia,2014,143rd,stable,low,neutral,low,low,neutral,high,high,low,low,high,high,high,very high,very high,neutral,very low,very low,very low
+Mauritius,2014,144th,stable,low,high,high,neutral,neutral,high,high,neutral,low,neutral,high,neutral,very high,very high,low,low,very low,very low
+Spain,2014,145th,stable,low,low,low,neutral,high,high,high,low,low,high,high,very high,very high,very high,very low,very low,very low,neutral
+Kuwait,2014,146th,stable,neutral,very low,neutral,low,neutral,high,low,low,high,neutral,high,neutral,high,very high,very low,low,very high,very low
+Lithuania,2014,147th,stable,low,high,neutral,neutral,neutral,neutral,high,low,low,high,high,high,very high,very high,neutral,very low,very low,low
+Italy,2014,148th,stable,neutral,neutral,neutral,neutral,high,high,neutral,low,low,high,high,very high,very high,very high,very low,very low,very low,low
+Bahamas,2014,149th,stable,neutral,neutral,neutral,neutral,neutral,neutral,neutral,neutral,low,low,high,neutral,very high,very high,low,low,very high,very low
+Poland,2014,150th,stable,low,high,neutral,neutral,high,neutral,high,low,low,high,high,high,very high,very high,low,very low,very low,low
+Czech Republic,2014,151st,stable,low,neutral,high,neutral,high,high,neutral,low,low,high,high,high,very high,very high,neutral,very low,very low,low
+Chile,2014,152nd,more stable,low,very high,high,low,neutral,high,high,neutral,low,neutral,high,high,very high,very high,very low,very low,very low,very low
+Barbados,2014,153rd,more stable,neutral,neutral,neutral,neutral,neutral,neutral,high,low,low,neutral,high,neutral,very high,very high,low,low,very high,very low
+Belgium,2014,154th,more stable,low,high,neutral,neutral,high,very high,high,low,very low,high,very high,very high,very high,very high,neutral,very low,very low,low
+France,2014,155th,more stable,low,very high,low,neutral,neutral,high,high,very low,low,high,high,very high,high,very high,very low,very low,very low,low
+Slovenia,2014,156th,more stable,low,very high,high,low,neutral,high,high,low,low,high,very high,high,very high,very high,low,very low,very low,low
+Uruguay,2014,157th,more stable,low,high,high,low,neutral,neutral,very high,low,low,high,high,high,high,very high,very low,very low,very low,very low
+Qatar,2014,158th,more stable,low,neutral,neutral,low,neutral,high,low,low,neutral,neutral,high,high,high,very high,very low,low,very high,very low
+Singapore,2014,159th,more stable,low,neutral,high,low,neutral,high,high,low,neutral,high,very high,high,very high,very high,very high,very low,very high,low
+Luxembourg,2014,160th,more stable,low,high,high,very low,very high,high,very high,very low,very low,high,very high,very high,very high,very high,very high,very low,very low,low
+Portugal,2014,161st,more stable,very low,very high,high,neutral,high,high,high,low,low,high,very high,high,very high,very high,very low,very low,very low,low
+United Kingdom,2014,162nd,more stable,low,high,neutral,neutral,high,high,very high,low,low,high,high,very high,very high,very high,very low,very low,very low,low
+United States,2014,163rd,more stable,low,neutral,neutral,low,neutral,very high,high,low,low,high,high,very high,very high,very high,very low,very low,very low,very low
+Netherlands,2014,164th,more stable,low,high,neutral,low,high,high,very high,very low,very low,high,high,very high,very high,very high,low,very low,very low,low
+Germany,2014,165th,more stable,low,high,neutral,low,high,high,very high,very low,very low,high,high,very high,very high,very high,very low,very low,very low,low
+Austria,2014,166th,more stable,very low,high,neutral,low,high,very high,very high,very low,low,high,high,very high,very high,very high,low,very low,very low,low
+Ireland,2014,167th,more stable,low,very high,very high,neutral,high,high,very high,low,very low,high,very high,high,very high,very high,neutral,very low,very low,very low
+Iceland,2014,168th,more stable,very low,very high,very high,low,very high,high,very high,very low,very low,very high,very high,neutral,very high,very high,low,very low,very low,neutral
+Australia,2014,169th,very stable,low,very high,high,low,high,very high,very high,low,low,high,high,very high,very high,very high,very low,very low,very low,low
+Switzerland,2014,170th,very stable,very low,very high,high,low,high,high,very high,very low,very low,high,very high,very high,very high,very high,low,very low,very low,low
+South Korea,2014,171st,very stable,low,high,high,low,high,high,high,low,low,high,very high,neutral,high,neutral,very low,high,low,neutral
+Denmark,2014,172nd,very stable,very low,very high,high,low,very high,high,very high,very low,very low,high,very high,very high,very high,very high,low,very low,very low,low
+Japan,2014,174th,very stable,very low,high,neutral,low,high,high,high,low,low,neutral,high,high,very high,very high,very low,very low,very high,very low
+Sweden,2014,173rd,very stable,low,very high,very high,low,very high,very high,very high,very low,very low,high,high,very high,very high,very high,very low,very low,very low,neutral
+Norway,2014,175th,very stable,low,very high,high,low,very high,very high,very high,very low,very low,high,high,very high,very high,very high,very low,very low,very low,neutral
+New Zealand,2014,176th,very stable,very low,very high,high,low,high,high,very high,low,very low,high,very high,very high,very high,very high,very low,very low,very low,low
+Finland,2014,177th,very stable,very low,very high,very high,low,very high,high,very high,very low,very low,very high,very high,very high,very high,very high,very low,very low,very low,neutral
+Canada,2014,178th,very stable,low,high,high,low,high,high,very high,low,low,high,high,very high,very high,very high,very low,very low,very high,low

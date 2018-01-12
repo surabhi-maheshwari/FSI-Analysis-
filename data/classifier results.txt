@@ -1,0 +1,31 @@
+2012
+bayes 94.38
+naivebayes 95.5
+multilayerperceptron 94.94
+hoeffding 96.06
+LMT 95.5
+
+2013
+bayesnet 92.13
+naivebayes 94.94
+multilayerPerceptron 93.25
+jrip 91
+hoeffding 94.9
+LMT 91.5
+randomforest 92.69
+
+2014
+bayesnet 91
+naivebayes 94.38
+multilayerperceptron 96.62
+hoeffding 94.38
+LMT 94.38
+randomforest 91.5
+
+2015
+bayesnet 91.53
+naivebayes 90.44
+multilayerPerceptron 94.94
+hoeffding 90.44
+LMT 92.66
+randomforest 92.69
